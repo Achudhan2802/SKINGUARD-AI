@@ -1,0 +1,7 @@
+dataset/
+models/
+outputs/
+reports/
+uploads/
+logs/
+venv/

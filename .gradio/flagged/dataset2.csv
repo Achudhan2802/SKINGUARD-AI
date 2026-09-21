@@ -1,0 +1,2 @@
+Upload Skin Lesion Dermoscopic Image,Top Clinical Predictions,timestamp
+.gradio\flagged\Upload Skin Lesion Dermoscopic Image\7489283a6cf140b2deb5\ISIC_0024306.jpg,"{""label"": ""Melanocytic nevi"", ""confidences"": [{""label"": ""Melanocytic nevi"", ""confidence"": 0.872175395488739}, {""label"": ""Dermatofibroma"", ""confidence"": 0.07785537093877792}, {""label"": ""Actinic keratoses / intraepithelial carcinoma"", ""confidence"": 0.04150385037064552}]}",2026-08-24 17:29:43.405781

@@ -1,0 +1,2 @@
+Upload Skin Lesion Dermoscopic Image,Top Predictions,timestamp
+.gradio\flagged\Upload Skin Lesion Dermoscopic Image\b13fb4b597f6d22cb134\ISIC_0024308.jpg,"{""label"": ""nv"", ""confidences"": [{""label"": ""nv"", ""confidence"": 0.988353967666626}, {""label"": ""vasc"", ""confidence"": 0.0056176320649683475}, {""label"": ""df"", ""confidence"": 0.003805345157161355}]}",2026-08-24 16:56:53.545478
